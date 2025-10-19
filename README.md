@@ -52,7 +52,7 @@ Key Functions:
 
 ## 🚀 Live Demo
 
-**Frontend:** [https://your-demo.vercel.app](#) (update with your deployment)
+**Frontend:** [https://confidential-voting-dapp.vercel.app/](#) (update with your deployment)
 
 ## 🎥 Demo Video
 
